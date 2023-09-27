@@ -12,7 +12,7 @@
 CCS_Hashima_Candy_Chew
 ```
 
-![CCS_Hashima_Candy_Chew](screenshots/candy/CCS_Hashima_Candy_Chew.png)
+![CCS_Hashima_Candy_Chew](CCS_Hashima_Candy_Chew.png)
 
 ---
 
@@ -20,7 +20,7 @@ CCS_Hashima_Candy_Chew
 CCS_Hashima_Candy_Fujiya
 ```
 
-![CCS_Hashima_Candy_Fujiya](screenshots/candy/CCS_Hashima_Candy_Fujiya.png)
+![CCS_Hashima_Candy_Fujiya](CCS_Hashima_Candy_Fujiya.png)
 
 ---
 
@@ -28,7 +28,7 @@ CCS_Hashima_Candy_Fujiya
 CCS_Hashima_Candy_Ginbis
 ```
 
-![CCS_Hashima_Candy_Ginbis](screenshots/candy/CCS_Hashima_Candy_Ginbis.png)
+![CCS_Hashima_Candy_Ginbis](CCS_Hashima_Candy_Ginbis.png)
 
 ---
 
@@ -36,7 +36,7 @@ CCS_Hashima_Candy_Ginbis
 CCS_Hashima_Candy_Peanut
 ```
 
-![CCS_Hashima_Candy_Peanut](screenshots/candy/CCS_Hashima_Candy_Peanut.png)
+![CCS_Hashima_Candy_Peanut](CCS_Hashima_Candy_Peanut.png)
 
 ---
 
@@ -44,7 +44,7 @@ CCS_Hashima_Candy_Peanut
 CCS_Hashima_Candy_Super
 ```
 
-![CCS_Hashima_Candy_Super](screenshots/candy/CCS_Hashima_Candy_Super.png)
+![CCS_Hashima_Candy_Super](CCS_Hashima_Candy_Super.png)
 
 ---
 

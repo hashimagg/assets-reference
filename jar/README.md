@@ -12,7 +12,7 @@
 CCS_Hashima_Jar_Jam_1
 ```
 
-![CCS_Hashima_Jar_Jam_1](screenshots/jar/CCS_Hashima_Jar_Jam_1.png)
+![CCS_Hashima_Jar_Jam_1](CCS_Hashima_Jar_Jam_1.png)
 
 ---
 
@@ -20,7 +20,7 @@ CCS_Hashima_Jar_Jam_1
 CCS_Hashima_Jar_Jam_2
 ```
 
-![CCS_Hashima_Jar_Jam_2](screenshots/jar/CCS_Hashima_Jar_Jam_2.png)
+![CCS_Hashima_Jar_Jam_2](CCS_Hashima_Jar_Jam_2.png)
 
 ---
 
@@ -28,7 +28,7 @@ CCS_Hashima_Jar_Jam_2
 CCS_Hashima_Jar_Jam_3
 ```
 
-![CCS_Hashima_Jar_Jam_3](screenshots/jar/CCS_Hashima_Jar_Jam_3.png)
+![CCS_Hashima_Jar_Jam_3](CCS_Hashima_Jar_Jam_3.png)
 
 ---
 
@@ -36,7 +36,7 @@ CCS_Hashima_Jar_Jam_3
 CCS_Hashima_Jar_Jam_4
 ```
 
-![CCS_Hashima_Jar_Jam_4](screenshots/jar/CCS_Hashima_Jar_Jam_4.png)
+![CCS_Hashima_Jar_Jam_4](CCS_Hashima_Jar_Jam_4.png)
 
 ---
 
@@ -44,7 +44,7 @@ CCS_Hashima_Jar_Jam_4
 CCS_Hashima_Jar_Kewpie
 ```
 
-![CCS_Hashima_Jar_Kewpie](screenshots/jar/CCS_Hashima_Jar_Kewpie.png)
+![CCS_Hashima_Jar_Kewpie](CCS_Hashima_Jar_Kewpie.png)
 
 ---
 
