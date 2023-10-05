@@ -74,7 +74,7 @@ References (screenshots) and Classes for Hashima Islands Assets, required for Ha
 
 ### █ Zombie (163)
 
-**[View screenshots 🡥](zombie/README.md)**
+**[View classes 🡥](zombie/README.md)**
 
 ---
 
