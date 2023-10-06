@@ -1,6 +1,6 @@
 # Hashima Islands 端島 — Assets
 
-References (screenshots) and Classes for Hashima Islands Assets, required for Hashima Islands.
+References (Screenshots) and Classes for Hashima Islands Assets, required for Hashima Islands.
 
 #### [Subscribe on Steam Workshop 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=3001202420)
 
@@ -8,73 +8,73 @@ References (screenshots) and Classes for Hashima Islands Assets, required for Ha
 
 ### █ Ammo (20)
 
-**[View screenshots 🡥](ammo/README.md)**
+**[View Screenshots 🡥](ammo/README.md)**
 
 ---
 
 ### █ Bag (21)
 
-**[View screenshots 🡥](bag/README.md)**
+**[View Screenshots 🡥](bag/README.md)**
 
 ---
 
 ### █ Beer (20)
 
-**[View screenshots 🡥](beer/README.md)**
+**[View Screenshots 🡥](beer/README.md)**
 
 ---
 
 ### █ Can (58)
 
-**[View screenshots 🡥](can/README.md)**
+**[View Screenshots 🡥](can/README.md)**
 
 ---
 
 ### █ Candy (5)
 
-**[View screenshots 🡥](candy/README.md)**
+**[View Screenshots 🡥](candy/README.md)**
 
 ---
 
 ### █ Clothing (41)
 
-**[View screenshots 🡥](clothing/README.md)**
+**[View Screenshots 🡥](clothing/README.md)**
 
 ---
 
 ### █ Drink (3)
 
-**[View screenshots 🡥](drink/README.md)**
+**[View Screenshots 🡥](drink/README.md)**
 
 ---
 
 ### █ Jar (5)
 
-**[View screenshots 🡥](jar/README.md)**
+**[View Screenshots 🡥](jar/README.md)**
 
 ---
 
 ### █ Medical (22)
 
-**[View screenshots 🡥](medical/README.md)**
+**[View Screenshots 🡥](medical/README.md)**
 
 ---
 
 ### █ Snack (24)
 
-**[View screenshots 🡥](snack/README.md)**
+**[View Screenshots 🡥](snack/README.md)**
 
 ---
 
 ### █ Tool (36)
 
-**[View screenshots 🡥](tool/README.md)**
+**[View Screenshots 🡥](tool/README.md)**
 
 ---
 
 ### █ Zombie (163)
 
-**[View classes 🡥](zombie/README.md)**
+**[View Classes 🡥](zombie/README.md)**
 
 ---
 
