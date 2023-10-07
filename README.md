@@ -83,9 +83,13 @@ References (Screenshots) and Classes for Hashima Islands Assets, required for Ha
 Some items cannot be retextured:
 
 **[Canned Tunna 🡥](https://dayz.fandom.com/wiki/Canned_Tuna)**
+
 **[Electrical Repair Kit 🡥](https://dayz.fandom.com/wiki/Electrical_Repair_Kit)**
+
 **[Epoxy Putty 🡥](https://dayz.fandom.com/wiki/Canned_Tuna)**
+
 **[Iodine Tincture 🡥](https://dayz.fandom.com/wiki/Iodine_Tincture)**
+
 **[Handheld Transceiver 🡥](https://dayz.fandom.com/wiki/Handheld_Transceiver)**
 
 ---
