@@ -6,75 +6,93 @@ References (Screenshots) and Classes for Hashima Islands Assets, required for Ha
 
 ---
 
-### █ Ammo (20)
+### — Ammo (20)
 
 **[View Screenshots 🡥](ammo/README.md)**
 
 ---
 
-### █ Bag (21)
+### — Bag (21)
 
 **[View Screenshots 🡥](bag/README.md)**
 
 ---
 
-### █ Beer (20)
+### — Beer (20)
 
 **[View Screenshots 🡥](beer/README.md)**
 
 ---
 
-### █ Can (58)
+### — Can (58)
 
 **[View Screenshots 🡥](can/README.md)**
 
 ---
 
-### █ Candy (5)
+### — Candy (5)
 
 **[View Screenshots 🡥](candy/README.md)**
 
 ---
 
-### █ Clothing (41)
+### — Clothing (41)
 
 **[View Screenshots 🡥](clothing/README.md)**
 
 ---
 
-### █ Drink (3)
+### — Drink (3)
 
 **[View Screenshots 🡥](drink/README.md)**
 
 ---
 
-### █ Jar (5)
+### — Jar (5)
 
 **[View Screenshots 🡥](jar/README.md)**
 
 ---
 
-### █ Medical (22)
+### — Medical (22)
 
 **[View Screenshots 🡥](medical/README.md)**
 
 ---
 
-### █ Snack (24)
+### — Snack (24)
 
 **[View Screenshots 🡥](snack/README.md)**
 
 ---
 
-### █ Tool (36)
+### — Tool (36)
 
 **[View Screenshots 🡥](tool/README.md)**
 
 ---
 
-### █ Zombie (163)
+### — Zombie (163)
 
 **[View Classes 🡥](zombie/README.md)**
+
+---
+
+## Known Issues
+
+Some items cannot be retextured:
+
+**[Canned Tunna 🡥](https://dayz.fandom.com/wiki/Canned_Tuna)**
+**[Electrical Repair Kit 🡥](https://dayz.fandom.com/wiki/Electrical_Repair_Kit)**
+**[Epoxy Putty 🡥](https://dayz.fandom.com/wiki/Canned_Tuna)**
+**[Iodine Tincture 🡥](https://dayz.fandom.com/wiki/Iodine_Tincture)**
+**[Handheld Transceiver 🡥](https://dayz.fandom.com/wiki/Handheld_Transceiver)**
+
+---
+
+## Contribute
+
+If you want to contribute, feel free by open an **[Issue](https://github.com/hashimagg/assets-reference/issues)** and/or **[Pull Request](https://github.com/hashimagg/assets-reference/pulls)**.
 
 ---
 
